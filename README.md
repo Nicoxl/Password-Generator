@@ -18,3 +18,8 @@ This project was developed using:
 * **Tools** Visual Studio 2026
 
 ## 💻 Installation
+
+## 📱Usage
+Launch the application. Check the options that better satisfying your password below horizontal bar and click the button Generate to Generate a password. Then, you can copy it with the copy button at the right. 
+Simple, useful and easy to use!
+
